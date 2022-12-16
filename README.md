@@ -1,1 +1,3 @@
-A project on lens protocol
+A basic project on lens protocol
+<br />
+This fetches lens profiles using urql 
